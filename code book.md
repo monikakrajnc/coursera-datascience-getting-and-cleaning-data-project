@@ -11,174 +11,174 @@ Data from 30 volunteers between an age 19-48 years
 Individuals involved in the experiment performed 6 different activities, by wearing smartphone (Samsung Galaxy) 
 
 The activites were:
-⋅⋅* WALKING
-⋅⋅* WALKING_UPSTAIRS
-⋅⋅* WALKING_DOWNSTAIRS
-⋅⋅* SITTING
-⋅⋅* STANDING
-⋅⋅* LAYING
+  - WALKING
+  - WALKING_UPSTAIRS
+  - WALKING_DOWNSTAIRS
+  - SITTING
+  - STANDING
+  - LAYING
 
 ##Mean Measurments
 
 Variables presented here are all mean of a measurment based on subect and activity. All values are between -1 and 1.
 
 Time based body acceleration mean on X,Y,Z
-⋅⋅* TimeBodyAccelerometerMeanX
-⋅⋅* TimeBodyAccelerometerMeanY
-⋅⋅* TimeBodyAccelerometerMeanZ
+  - TimeBodyAccelerometerMeanX
+  - TimeBodyAccelerometerMeanY
+  - TimeBodyAccelerometerMeanZ
 
 Time based gravity acceleration mean on X,Y,Z
-⋅⋅* TimeGravityAccelerometerMeanX
-⋅⋅* TimeGravityAccelerometerMeanY
-⋅⋅* TimeGravityAccelerometerMeanZ
+  - TimeGravityAccelerometerMeanX
+  - TimeGravityAccelerometerMeanY
+  - TimeGravityAccelerometerMeanZ
 
 Time based body acceleration jerk mean on X,Y,Z
-⋅⋅* TimeBodyAccelerometerJerkMeanX
-⋅⋅* TimeBodyAccelerometerJerkMeanY
-⋅⋅* TimeBodyAccelerometerJerkMeanZ
+  - TimeBodyAccelerometerJerkMeanX
+  - TimeBodyAccelerometerJerkMeanY
+  - TimeBodyAccelerometerJerkMeanZ
 
 Time based body gyroscope mean on X,Y,Z
-⋅⋅* TimeBodyGyroscopeMeanX
-⋅⋅* TimeBodyGyroscopeMeanY
-⋅⋅* TimeBodyGyroscopeMeanZ
+  - TimeBodyGyroscopeMeanX
+  - TimeBodyGyroscopeMeanY
+  - TimeBodyGyroscopeMeanZ
 
 Time based body gyroscope jerk mean on X,Y,Z
-⋅⋅* TimeBodyGyroscopeJerkMeanX
-⋅⋅* TimeBodyGyroscopeJerkMeanY
-⋅⋅* TimeBodyGyroscopeJerkMeanZ
+  - TimeBodyGyroscopeJerkMeanX
+  - TimeBodyGyroscopeJerkMeanY
+  - TimeBodyGyroscopeJerkMeanZ
 
 Time based body acceleration magnitude mean
-⋅⋅* TimeBodyAccelerometerMagnitudeMean
+  - TimeBodyAccelerometerMagnitudeMean
 
 Time based gravity acceleration magnitude mean   
-⋅⋅* TimeGravityAccelerometerMagnitudeMean
+  - TimeGravityAccelerometerMagnitudeMean
 
 Time based body acceleration jerk magnitude mean
-⋅⋅* TimeBodyAccelerometerJerkMagnitudeMean
+  - TimeBodyAccelerometerJerkMagnitudeMean
 
 Time based body gyroscope magnitude mean
-⋅⋅* TimeBodyGyroscopeMagnitudeMean
+  - TimeBodyGyroscopeMagnitudeMean
 
 Time basedbody gyroscope jerk magnitude mean
-⋅⋅* TimeBodyGyroscopeJerkMagnitudeMean
+  - TimeBodyGyroscopeJerkMagnitudeMean
 
 Frequency based body acceleration mean on X,Y,Z
-⋅⋅* FrequencyBodyAccelerometerMeanX
-⋅⋅* FrequencyBodyAccelerometerMeanY
-⋅⋅* FrequencyBodyAccelerometerMeanZ
+  - FrequencyBodyAccelerometerMeanX
+  - FrequencyBodyAccelerometerMeanY
+  - FrequencyBodyAccelerometerMeanZ
 
 Frequency based body acceleration mean frequency on X,Y,Z
-⋅⋅* FrequencyBodyAccelerometerMeanFreqX
-⋅⋅* FrequencyBodyAccelerometerMeanFreqY
-⋅⋅* FrequencyBodyAccelerometerMeanFreqZ
+  - FrequencyBodyAccelerometerMeanFreqX
+  - FrequencyBodyAccelerometerMeanFreqY
+  - FrequencyBodyAccelerometerMeanFreqZ
 
 Frequency based body acceleration jerk mean on X,Y,Z
-⋅⋅* FrequencyBodyAccelerometerJerkMeanX
-⋅⋅* FrequencyBodyAccelerometerJerkMeanY
-⋅⋅* FrequencyBodyAccelerometerJerkMeanZ
+  - FrequencyBodyAccelerometerJerkMeanX
+  - FrequencyBodyAccelerometerJerkMeanY
+  - FrequencyBodyAccelerometerJerkMeanZ
 
 Frequency based body acceleration jerk mean frequency on X,Y,Z
-⋅⋅* FrequencyBodyAccelerometerJerkMeanFreqX
-⋅⋅* FrequencyBodyAccelerometerJerkMeanFreqY
-⋅⋅* FrequencyBodyAccelerometerJerkMeanFreqZ
+  - FrequencyBodyAccelerometerJerkMeanFreqX
+  - FrequencyBodyAccelerometerJerkMeanFreqY
+  - FrequencyBodyAccelerometerJerkMeanFreqZ
 
 Frequency based body gyroscope mean on X,Y,Z
-⋅⋅* FrequencyBodyGyroscopeMeanX
-⋅⋅* FrequencyBodyGyroscopeMeanY
-⋅⋅* FrequencyBodyGyroscopeMeanZ
+  - FrequencyBodyGyroscopeMeanX
+  - FrequencyBodyGyroscopeMeanY
+  - FrequencyBodyGyroscopeMeanZ
 
 Frequency based body gyroscope mean frequency on X,Y,Z
-⋅⋅* FrequencyBodyGyroscopeMeanFreqX
-⋅⋅* FrequencyBodyGyroscopeMeanFreqY
-⋅⋅* FrequencyBodyGyroscopeMeanFreqZ
+  - FrequencyBodyGyroscopeMeanFreqX
+  - FrequencyBodyGyroscopeMeanFreqY
+  - FrequencyBodyGyroscopeMeanFreqZ
 
 Frequency based body acceleration magnitude mean   
-⋅⋅* FrequencyBodyAccelerometerMagnitudeMean
+  - FrequencyBodyAccelerometerMagnitudeMean
 
 Frequency based body accelerometer magnitude mean frequency  
-⋅⋅* FrequencyBodyAccelerometerMagnitudeMeanFreq
+  - FrequencyBodyAccelerometerMagnitudeMeanFreq
 
-Frequency based body accelerometer jerk magnitude mean⋅⋅* 
-⋅⋅* FrequencyBodyAccelerometerJerkMagnitudeMean
+Frequency based body accelerometer jerk magnitude mean  - 
+  - FrequencyBodyAccelerometerJerkMagnitudeMean
 
 Frequency based body accelerometer jerk magnitude mean frequency
-⋅⋅* FrequencyBodyAccelerometerJerkMagnitudeMeanFreq
+  - FrequencyBodyAccelerometerJerkMagnitudeMeanFreq
 
 Frequency based body gyroscope magnitude mean
-⋅⋅* FrequencyBodyGyroscopeMagnitudeMean
+  - FrequencyBodyGyroscopeMagnitudeMean
 
 Frequency based body gyroscope magnitude mean frequency
-⋅⋅* FrequencyBodyGyroscopeMagnitudeMeanFreq
+  - FrequencyBodyGyroscopeMagnitudeMeanFreq
 
 Frequency based body gyroscope jerk magnitude mean
-⋅⋅* FrequencyBodyGyroscopeJerkMagnitudeMean
+  - FrequencyBodyGyroscopeJerkMagnitudeMean
 
-Frequency based body gyroscope jerk magnitude mean frequency⋅⋅* 
-⋅⋅* FrequencyBodyGyroscopeJerkMagnitudeMeanFreq
+Frequency based body gyroscope jerk magnitude mean frequency  - 
+  - FrequencyBodyGyroscopeJerkMagnitudeMeanFreq
 
 Time based body acceleration standard deviation on X,Y,Z
-⋅⋅* TimeBodyAccelerometerStandardDeviationX
-⋅⋅* TimeBodyAccelerometerStandardDeviationY
-⋅⋅* TimeBodyAccelerometerStandardDeviationZ
+  - TimeBodyAccelerometerStandardDeviationX
+  - TimeBodyAccelerometerStandardDeviationY
+  - TimeBodyAccelerometerStandardDeviationZ
 
-Time based gravity acceleration standard deviation on X,Y,Z⋅⋅* 
-⋅⋅* TimeGravityAccelerometerStandardDeviationX
-⋅⋅* TimeGravityAccelerometerStandardDeviationY
-⋅⋅* TimeGravityAccelerometerStandardDeviationZ
+Time based gravity acceleration standard deviation on X,Y,Z  - 
+  - TimeGravityAccelerometerStandardDeviationX
+  - TimeGravityAccelerometerStandardDeviationY
+  - TimeGravityAccelerometerStandardDeviationZ
 
-Time based body acceleration jerk standard deviation on X,Y,Z⋅⋅* 
-⋅⋅* TimeBodyAccelerometerJerkStandardDeviationX
-⋅⋅* TimeBodyAccelerometerJerkStandardDeviationY
-⋅⋅* TimeBodyAccelerometerJerkStandardDeviationZ
+Time based body acceleration jerk standard deviation on X,Y,Z  - 
+  - TimeBodyAccelerometerJerkStandardDeviationX
+  - TimeBodyAccelerometerJerkStandardDeviationY
+  - TimeBodyAccelerometerJerkStandardDeviationZ
 
 Time based body gyroscope standard deviation on X,Y,Z
-⋅⋅* TimeBodyGyroscopeStandardDeviationX
-⋅⋅* TimeBodyGyroscopeStandardDeviationY
-⋅⋅* TimeBodyGyroscopeStandardDeviationZ
+  - TimeBodyGyroscopeStandardDeviationX
+  - TimeBodyGyroscopeStandardDeviationY
+  - TimeBodyGyroscopeStandardDeviationZ
 
-Time based body gyroscope jerk standard deviation on X,Y,Z⋅⋅* 
-⋅⋅* TimeBodyGyroscopeJerkStandardDeviationX
-⋅⋅* TimeBodyGyroscopeJerkStandardDeviationY
-⋅⋅* TimeBodyGyroscopeJerkStandardDeviationZ
+Time based body gyroscope jerk standard deviation on X,Y,Z  - 
+  - TimeBodyGyroscopeJerkStandardDeviationX
+  - TimeBodyGyroscopeJerkStandardDeviationY
+  - TimeBodyGyroscopeJerkStandardDeviationZ
 
 Time based body accelerometer magnitude standard deviation
-⋅⋅* TimeBodyAccelerometerMagnitudeStandardDeviation
+  - TimeBodyAccelerometerMagnitudeStandardDeviation
 
 Time based gravity accelerometer magnitude standard deviation
-⋅⋅* TimeGravityAccelerometerMagnitudeStandardDeviation
+  - TimeGravityAccelerometerMagnitudeStandardDeviation
 
 Time based body accelerometer jerk magnitude standard deviation
-⋅⋅* TimeBodyAccelerometerJerkMagnitudeStandardDeviation
+  - TimeBodyAccelerometerJerkMagnitudeStandardDeviation
 
 Time based body gyroscope magnitude standard deviation
-⋅⋅* TimeBodyGyroscopeMagnitudeStandardDeviation
+  - TimeBodyGyroscopeMagnitudeStandardDeviation
 
 Time based body gyroscope jerk magnitude standard deviation
-⋅⋅* TimeBodyGyroscopeJerkMagnitudeStandardDeviation
+  - TimeBodyGyroscopeJerkMagnitudeStandardDeviation
 
 Frequency based body acceleration standard deviation on X,Y,Z
-⋅⋅* FrequencyBodyAccelerometerStandardDeviationX
-⋅⋅* FrequencyBodyAccelerometerStandardDeviationY
-⋅⋅* FrequencyBodyAccelerometerStandardDeviationZ
+  - FrequencyBodyAccelerometerStandardDeviationX
+  - FrequencyBodyAccelerometerStandardDeviationY
+  - FrequencyBodyAccelerometerStandardDeviationZ
 
 Frequency based body acceleration jerk standard deviation on X,Y,Z
-⋅⋅* FrequencyBodyAccelerometerJerkStandardDeviationX
-⋅⋅* FrequencyBodyAccelerometerJerkStandardDeviationY
-⋅⋅* FrequencyBodyAccelerometerJerkStandardDeviationZ
+  - FrequencyBodyAccelerometerJerkStandardDeviationX
+  - FrequencyBodyAccelerometerJerkStandardDeviationY
+  - FrequencyBodyAccelerometerJerkStandardDeviationZ
 
 Frequency based body gyroscope standard deviation on X,Y,Z
-⋅⋅* FrequencyBodyGyroscopeStandardDeviationX
-⋅⋅* FrequencyBodyGyroscopeStandardDeviationY
-⋅⋅* FrequencyBodyGyroscopeStandardDeviationZ
+  - FrequencyBodyGyroscopeStandardDeviationX
+  - FrequencyBodyGyroscopeStandardDeviationY
+  - FrequencyBodyGyroscopeStandardDeviationZ
 
 Frequency based body accelerometer magnitude standard deviation
-⋅⋅* FrequencyBodyAccelerometerMagnitudeStandardDeviation
+  - FrequencyBodyAccelerometerMagnitudeStandardDeviation
 
 Frequency based body accelerometer jerk magnitude standard deviation
-⋅⋅* FrequencyBodyAccelerometerJerkMagnitudeStandardDeviation
+  - FrequencyBodyAccelerometerJerkMagnitudeStandardDeviation
 
 Frequency based body gyroscope magnitude standard deviation
-⋅⋅* FrequencyBodyGyroscopeMagnitudeStandardDeviation
+  - FrequencyBodyGyroscopeMagnitudeStandardDeviation
 
 Frequency based body gyroscope jerk magnitude standard deviation
-⋅⋅* FrequencyBodyGyroscopeJerkMagnitudeStandardDeviation
+  - FrequencyBodyGyroscopeJerkMagnitudeStandardDeviation
