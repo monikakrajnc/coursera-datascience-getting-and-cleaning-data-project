@@ -1,6 +1,6 @@
 # Getting and cleaning data - Project 
 
-The script in the repo binds data.frames, creates a subset, renames variables, calculates averages and save the output.
+The script in the repo binds data tables, creates a subset, renames variables, calculates averages and save the output.
 
 The dataset for this project can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. It contains data labels, descriptions, test and trains data sets, seperated into folders and across multiple files.
 
